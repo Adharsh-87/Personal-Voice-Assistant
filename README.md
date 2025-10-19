@@ -51,6 +51,7 @@ Run the assistant
 python voice_assistant.py
 
 🗂️ Project Structure
+
 📁 Personal-Voice-Assistant/
 │
 ├── voice_assistant.py     
