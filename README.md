@@ -53,10 +53,10 @@ python voice_assistant.py
 🗂️ Project Structure
 📁 Personal-Voice-Assistant/
 │
-├── voice_assistant.py       # Main script
-├── requirements.txt         # Dependencies
-├── README.md                # Project documentation
-└── assets/                  # (Optional) Icons, sound files, etc.
+├── voice_assistant.py     
+├── requirements.txt        
+├── README.md              
+└── assets/                  
 
 🧠 How It Works
 
